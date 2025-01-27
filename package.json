@@ -1,6 +1,6 @@
 {
   "name": "apostrophe-tiptap-rich-text-widgets",
-  "version": "0.3.9",
+  "version": "0.4.0-beta.1",
   "description": "Wrapper allowing the use of the tiptap vue-based rich-text editor for Apostrophe 2.x. In 3.x it will be standard equipment.",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/apostrophecms/apostrophe-tiptap-rich-text-widgets.git"
+    "url": "git+https://github.com/apostrophecms-legacy/apostrophe-tiptap-rich-text-widgets.git"
   },
   "keywords": [
     "apostrophecms",
@@ -18,9 +18,9 @@
   "author": "Apostrophe Technologies, Inc.",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/apostrophecms/apostrophe-tiptap-rich-text-widgets/issues"
+    "url": "https://github.com/apostrophecms-legacy/apostrophe-tiptap-rich-text-widgets/issues"
   },
-  "homepage": "https://github.com/apostrophecms/apostrophe-tiptap-rich-text-widgets#readme",
+  "homepage": "https://github.com/apostrophecms-legacy/apostrophe-tiptap-rich-text-widgets#readme",
   "dependencies": {
     "css-loader": "^3.0.0",
     "fs-extra": "^8.0.1",
