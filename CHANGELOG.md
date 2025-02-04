@@ -1,6 +1,6 @@
 # Changelog
 
-## UNRELEASED
+## 0.4.0 - 2025-02-04
 
 * Add support for lean mode
 
@@ -15,6 +15,7 @@ SanitizeHtml configuration is not mandatory on project level anymore.
 ## 0.3.7 - 2020-08-12
 
 Table improvements:
+
 * add header `<th></th>` on a row or a column with new buttons "Toggle Table Header Row" and "Toggle Table Header Column"
 * highlight selected cells: previously, when selecting cells to merge them for example, they were not highlighted, leading to visual confusion
 * merge cells fix: cells next to merged cells were aligned on the wrong column, under the merged cells. Now, original alignment is respected.
